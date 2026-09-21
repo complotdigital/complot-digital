@@ -1,0 +1,18 @@
+{
+  "name": "COMPLOT Digital — Consultora Publicitaria",
+  "short_name": "COMPLOT",
+  "description": "Estrategia, branding, publicidad y digital para marcas que quieren crecer con dirección.",
+  "lang": "es-EC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08070d",
+  "theme_color": "#08070d",
+  "icons": [
+    {
+      "src": "/assets/logo-master.png",
+      "sizes": "1772x1772",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
