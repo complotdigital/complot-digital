@@ -1,3 +1,4 @@
+# Reemplaza complot-digital.pages.dev por tu dominio real en sitemap.xml antes de subir este archivo.
 User-agent: *
 Allow: /
 
